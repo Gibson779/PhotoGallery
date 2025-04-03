@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: "Arial" ;
 }
 .container{
     display: flex;
@@ -15,13 +15,13 @@
     margin: 40px 20px 0 20px;
 }
 .container .heading{
-    width: 50%;
-    padding-bottom: 50px;
+    width: 40%;
+    padding-bottom: 20px;
 }
 .container .heading h3{
     font-size: 3em;
     font-weight: bold;
-    border-bottom: 3px solid #222;
+    border-bottom: 2px solid #222;
 }  
 .container .heading h3 span{
     font-weight: 100;
@@ -32,13 +32,13 @@
     justify-content: space-between;
    
 }
-.container .box .dream {
+.container .box .time {
     display: flex;
     flex-direction: column;
     width: 33%;
 }
 
-.container .box .dream img {
+.container .box .time img {
     width: 100%;
     padding-bottom: 15px;
     border-radius: 5px;
