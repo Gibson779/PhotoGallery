@@ -2,11 +2,12 @@ Photo Gallery
 
     download zipped folder
     unzip it
-    click on NewProject.html
+    click on index.html
     Or click the link here: https://frabjous-creponne-a6f777.netlify.app/
   
 
-![image](https://github.com/user-attachments/assets/1bc7dfde-9ad1-4e3b-906e-2facd9d7018d)
+<img width="1882" height="570" alt="image" src="https://github.com/user-attachments/assets/f679e885-c097-406c-913a-e906648eb743" />
+
 
 
 Enjoy!!
